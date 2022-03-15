@@ -16,7 +16,7 @@ root (project root folder)
 +-- game (specific game classes) 
 +-- README.md (general info)
 
-Authors
+Authors:
 Nasandratra Sartin HARIVONJY NIAINA (har21055@byui.edu)
 Yves Cyril (cyr21001@byui.edu)
 Hector Olivares Tapia (oli21007@byui.edu)
